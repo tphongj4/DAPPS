@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter 7/Chapter 7.2/MyContract1.sol": "MyContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter 7/Chapter 7.2/MyContract1.sol": {
+			"keccak256": "0x07c534496763134b438511c5730abef9956da6a6a26db83b79279dfba21464ec",
+			"urls": [
+				"bzz-raw://e8f7367fca1d5ae0ad3d2886475f2ec300b029c2e1a8a7ec7b2e003abf5455ce",
+				"dweb:/ipfs/QmeCWSi5vDWA7PmHi3ECEjkzovatNAKRn36n9jEvymBy6N"
+			]
+		}
+	},
+	"version": 1
+}
